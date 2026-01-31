@@ -3,7 +3,10 @@ layout: default
 title: Unidad 4 - Auditoría Informática
 ---
 
-# Unidad 4: Metodología y Pruebas en la Auditoría Informática
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="logo.jpg" alt="Logo Universidad" style="height: 80px; width: auto;">
+  <h1 style="margin: 0; line-height: 1.2;">Unidad 4: Auditoría Informática</h1>
+</div>
 
 Bienvenido a este blog de evaluación. A continuación, se desarrolla el contenido correspondiente a la metodología, planificación y ejecución de pruebas en el entorno de la auditoría de sistemas.
 
