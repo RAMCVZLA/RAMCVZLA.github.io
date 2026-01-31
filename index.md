@@ -17,6 +17,9 @@ La Auditoría Informática (AI) no es un proceso aleatorio; requiere un enfoque 
 2.  **Revisión de controles:** Verificar qué medidas de seguridad existen.
 3.  **Pruebas detalladas:** Ejecución de validaciones técnicas.
 4.  **Informe:** Comunicación de hallazgos.
+5.  4.  **Informe:** Comunicación de hallazgos.
+
+![Diagrama de Metodología](metodologia.jpg)
 
 ### Planificación
 El éxito de la auditoría depende de su planificación. Se deben definir:
@@ -43,6 +46,9 @@ Existen diversas estrategias para auditar el software:
 
 ### A. Según el conocimiento del código (Caja Blanca vs. Caja Negra)
 
+![Comparación de Pruebas](pruebas.jpg)
+
+| Tipo | Descripción | Quién la realiza |
 | Tipo | Descripción | Quién la realiza |
 | :--- | :--- | :--- |
 | **Caja Blanca** | Se analiza la estructura interna del código (bucles, condiciones). | Desarrolladores / Auditores técnicos |
@@ -68,6 +74,8 @@ Se evalúa la segregación de funciones (que el programador no sea también el a
 ### Configuración y Productividad
 * **Evaluación de Configuración:** Revisar si el hardware y el sistema operativo están actualizados y configurados de forma segura (Hardening).
 * **Productividad:** Medir si los recursos informáticos se usan eficientemente para apoyar las metas de la organización.
+* **Productividad:** Medir si los recursos informáticos se usan eficientemente para apoyar las metas de la organización.
+
+![Centro de Cómputo](centro.jpg)
 
 ---
-*Este blog fue generado como parte de la evaluación de la materia de Informática.*
