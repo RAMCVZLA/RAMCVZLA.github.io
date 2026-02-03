@@ -8,7 +8,7 @@ title: ""
   <h1 style="margin: 0; line-height: 1.2; color: #ffffff;">Unidad 4: Auditoría Informática</h1>
 </div>
 
-Bienvenido a este blog de evaluación académica. A continuación, se presenta un desarrollo exhaustivo de la Unidad 4, abarcando desde la metodología teórica hasta la ejecución práctica de pruebas y la evaluación física y lógica de centros de datos.
+Bienvenidos a nuestro blog, el cual forma parte de una evaluación académica. A continuación, se presenta un desarrollo exhaustivo de la Unidad 4, abarcando desde la metodología teórica hasta la ejecución práctica de pruebas y la evaluación física y lógica de centros de datos.
 
 ---
 
@@ -84,4 +84,6 @@ Se evalúa la **Segregación de Funciones**: es un principio de control interno 
 ![Centro de Cómputo](centro.jpg)
 
 ---
+
 Maturín, Febrero de 2026.
+©Universidad Politécnica Territorial del Norte de Monagas "Ludovico Silva"                         
